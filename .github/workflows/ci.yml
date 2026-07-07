@@ -1,0 +1,10 @@
+name: CI
+on:
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run bugbash test (intentionally fails)
+        run: bash test_bugbash.sh
