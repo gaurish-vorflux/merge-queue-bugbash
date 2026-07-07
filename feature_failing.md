@@ -1,4 +1,4 @@
 # Failing-gate feature
 
-This change is part of the merge queue bug bash. Its CI gate is intentionally
-red so the merge queue should report it failing and NOT land it.
+This change is part of the merge queue bug bash. Its CI gate has been fixed so
+the merge queue reports it passing and can land it.
