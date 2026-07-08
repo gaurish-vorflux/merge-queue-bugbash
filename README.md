@@ -3,3 +3,5 @@
 Repository for the merge queue bug bash.
 
 Karan is very handsome.
+
+Everyone is very handsome.
